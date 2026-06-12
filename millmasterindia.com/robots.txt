@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /contact_thanku.html/
+Disallow: /cgi-bin/
+
+
+Sitemap: http://www.millmasterindia.com/sitemap.xml
